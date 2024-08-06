@@ -1,0 +1,17 @@
+Spectrum Analyzer,Frequency Range,Resolution Bandwidth (RBW)
+Rohde & Schwarz FSW Series,2 Hz to 85 GHz,1 Hz to 10 MHz
+Keysight N9030B PXA,2 Hz to 50 GHz,1 Hz to 8 MHz
+Tektronix RSA5000 Series,1 Hz to 26.5 GHz,1 Hz to 10 MHz
+Rigol RSA5000 Series,9 kHz to 6.5 GHz,1 Hz to 10 MHz
+Siglent SSA3000X Plus Series,9 kHz to 7.5 GHz,1 Hz to 10 MHz
+Keysight N9344C,9 kHz to 20 GHz,1 Hz to 3 MHz
+Rohde & Schwarz FPH Series (Handheld),5 kHz to 26.5 GHz,1 Hz to 10 MHz
+Rigol DSA815-TG,9 kHz to 1.5 GHz,100 Hz to 1 MHz
+Siglent SSA3021X,9 kHz to 2.1 GHz,1 Hz to 1 MHz
+,,
+Spectrum Analyzer,Frequency Range,Resolution Bandwidth (RBW)
+Keysight N9041B UXA,3 Hz to 110 GHz,1 Hz to 8 MHz
+Rohde & Schwarz FSW85,2 Hz to 85 GHz (up to 500 GHz with external mixers),1 Hz to 10 MHz
+Keysight N9030B PXA with external mixers,2 Hz to 50 GHz (up to 1.1 THz with external mixers),1 Hz to 8 MHz
+Anritsu MS2760A,9 kHz to 110 GHz,10 Hz to 10 MHz
+Tektronix RSA7100A,16 kHz to 110 GHz (with external mixers),1 Hz to 40 MHz
